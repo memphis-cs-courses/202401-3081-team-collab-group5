@@ -2,6 +2,9 @@ class PagesController < ApplicationController
   def index
   end
 
-  def username
+  def thekelso91
+  end
+
+  def sti4o
   end
 end
