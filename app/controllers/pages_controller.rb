@@ -13,4 +13,8 @@ class PagesController < ApplicationController
 
   def username
   end
+
+  def mfrkzzmn
+
+  end
 end
