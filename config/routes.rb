@@ -9,4 +9,8 @@ Rails.application.routes.draw do
   # root "posts#index"
   get 'dante', to: 'pages#dante', as: 'dante'
   root 'pages#index'
+  get 'username', to: 'pages#username', as: 'username'
+
+
+  get 'sti4o', to: 'pages#sti4o', as: 'sti4o'
 end
